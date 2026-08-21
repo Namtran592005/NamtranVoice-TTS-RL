@@ -1,5 +1,8 @@
 # NamTranVoice
 
+<img width="960" height="510" alt="Screenshot" src="https://github.com/user-attachments/assets/44db68a5-5ede-4fc1-9b7e-7169d7ecc0ca" />
+
+VIDEO:
 Tạo Tiếng việt
 https://github.com/user-attachments/assets/54aa2ce1-e689-41cb-897b-0d6cf47a72ed
 Tạo Tiếng nước ngoài
